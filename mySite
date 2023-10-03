@@ -1,0 +1,23 @@
+<html>
+<body>
+  <head>
+    <style>
+      body{
+          background-color:blue;
+          font-color:white;
+          font-family: Courier New;
+      }
+    </style>
+  </head>
+  <text>An Error has been occured and windows has been shutdown to prevent damage to your computer if you see this screen first time you need to reset PC</text>
+  <div class="Button">
+    <h1>
+      <button>Reset PC</button>
+    </h1>
+    <script>
+      function reset(Button) {
+        alert('Reseting Time Lost 9years 100 hours')
+      }
+  </div>
+</body>
+</html>
